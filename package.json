@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "live": "live-server index.html",
-    "parcel": "parcel index.html"
+    "parcel": "parcel index.html",
+    "build": "parcel build app.js"
   },
   "keywords": [],
   "author": "",
